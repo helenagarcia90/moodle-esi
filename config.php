@@ -17,7 +17,7 @@ $CFG->dboptions = array (
   'dbsocket' => '',
 );
 
-$CFG->wwwroot   = 'http://localhost:8080/moodle-esi2'; //192.168.137.187/
+$CFG->wwwroot   = 'http://localhost:8080/moodle-esi'; //192.168.137.187/
 $CFG->dataroot  = '/home/helena/bitnami/lampp/moodledatac';
 $CFG->admin     = 'admin';
 
